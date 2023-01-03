@@ -1,0 +1,11 @@
+T:\Универ\КИТ\WindowsFormsAppExpert\WindowsFormsAppExpert\bin\Release\WindowsFormsAppExpert.exe.config
+T:\Универ\КИТ\WindowsFormsAppExpert\WindowsFormsAppExpert\bin\Release\WindowsFormsAppExpert.exe
+T:\Универ\КИТ\WindowsFormsAppExpert\WindowsFormsAppExpert\bin\Release\WindowsFormsAppExpert.pdb
+T:\Универ\КИТ\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Release\WindowsFormsAppExpert.csproj.AssemblyReference.cache
+T:\Универ\КИТ\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Release\WindowsFormsAppExpert.csproj.SuggestedBindingRedirects.cache
+T:\Универ\КИТ\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Release\WindowsFormsAppExpert.Form1.resources
+T:\Универ\КИТ\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Release\WindowsFormsAppExpert.Properties.Resources.resources
+T:\Универ\КИТ\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Release\WindowsFormsAppExpert.csproj.GenerateResource.cache
+T:\Универ\КИТ\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Release\WindowsFormsAppExpert.csproj.CoreCompileInputs.cache
+T:\Универ\КИТ\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Release\WindowsFormsAppExpert.exe
+T:\Универ\КИТ\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Release\WindowsFormsAppExpert.pdb

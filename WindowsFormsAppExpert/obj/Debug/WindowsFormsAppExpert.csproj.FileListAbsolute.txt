@@ -1,0 +1,21 @@
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppExpert\WindowsFormsAppExpert\bin\Debug\WindowsFormsAppExpert.exe.config
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppExpert\WindowsFormsAppExpert\bin\Debug\WindowsFormsAppExpert.exe
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppExpert\WindowsFormsAppExpert\bin\Debug\WindowsFormsAppExpert.pdb
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.Form1.resources
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.Properties.Resources.resources
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.csproj.GenerateResource.cache
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.csproj.CoreCompileInputs.cache
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.exe
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.pdb
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.csproj.AssemblyReference.cache
+C:\Users\Relarek\Downloads\WindowsFormsAppExpert\WindowsFormsAppExpert\bin\Debug\WindowsFormsAppExpert.exe.config
+C:\Users\Relarek\Downloads\WindowsFormsAppExpert\WindowsFormsAppExpert\bin\Debug\WindowsFormsAppExpert.exe
+C:\Users\Relarek\Downloads\WindowsFormsAppExpert\WindowsFormsAppExpert\bin\Debug\WindowsFormsAppExpert.pdb
+C:\Users\Relarek\Downloads\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.csproj.AssemblyReference.cache
+C:\Users\Relarek\Downloads\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.csproj.SuggestedBindingRedirects.cache
+C:\Users\Relarek\Downloads\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.Form1.resources
+C:\Users\Relarek\Downloads\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.Properties.Resources.resources
+C:\Users\Relarek\Downloads\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.csproj.GenerateResource.cache
+C:\Users\Relarek\Downloads\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.csproj.CoreCompileInputs.cache
+C:\Users\Relarek\Downloads\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.exe
+C:\Users\Relarek\Downloads\WindowsFormsAppExpert\WindowsFormsAppExpert\obj\Debug\WindowsFormsAppExpert.pdb
